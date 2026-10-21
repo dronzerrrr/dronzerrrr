@@ -97,8 +97,6 @@ I build data-driven solutions using machine learning, analytics, and web technol
 
 **[Explore the repository](https://github.com/dronzerrrr?tab=repositories)**
 
-> **Tip:** Once your project repositories are public, replace the repository links above with the direct links to each project.
-
 ## 💼 Experience
 
 **Web Development Intern — Hungry Coders, Nashik**  
